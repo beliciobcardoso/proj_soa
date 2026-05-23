@@ -1,0 +1,13 @@
+# Java
+java/out/
+*.class
+
+# TypeScript / Node
+typescript/node_modules/
+typescript/dist/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
