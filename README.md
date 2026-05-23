@@ -139,6 +139,7 @@ Serviço não encontrado!
 
 ## Referências
 
+- [AWS — O que é Arquitetura Orientada a Serviços?](https://aws.amazon.com/pt/what-is/service-oriented-architecture/)
 - [Wikipedia — Service-Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 - [Oracle Java Documentation](https://docs.oracle.com/en/java/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
